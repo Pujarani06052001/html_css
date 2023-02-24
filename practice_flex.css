@@ -1,0 +1,10 @@
+.flex-container{
+     background-color:indianred;
+     display: flex;
+}
+.flex-child{
+    background-color:white;
+    margin: 20px;
+    padding: 20px;
+    /* display: inline-block; */
+}
